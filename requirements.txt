@@ -1,0 +1,11 @@
+#SPICE
+spiceypy
+
+#plotting
+matplotlib
+
+#notebooks
+jupyterlab
+
+#numetrics & science
+numpy
