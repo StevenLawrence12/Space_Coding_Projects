@@ -9,3 +9,9 @@ jupyterlab
 
 #numetrics & science
 numpy
+
+ipympl
+
+plotly
+
+pandas
